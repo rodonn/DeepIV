@@ -1,2 +1,3 @@
 *.pyc
 *.egg-info
+/experiments/.ipynb_checkpoints
